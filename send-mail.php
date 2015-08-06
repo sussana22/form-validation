@@ -1,5 +1,5 @@
 <?php
-//echo "true";
+//echo "false";
 //define the recipient email address as a constant
 define('RECIPIENT','matthew.stevens@mediadesign.school.nz');
 
